@@ -1,0 +1,102 @@
+    3  cd git-practice-brachel1/
+    5  git add file1.txt
+    6  git status
+    7  git add .
+    8  git status
+    9  git log
+   10  git commit -m 
+   11  git commit -m 'add file2.txt'
+   12  git log
+   13  touch .gitignore
+   14  git add.
+   15  git add .
+   16  git committ -, 
+   17  git committ - 'add gitignore'
+   18  git committ -m 'add gitignore'
+   19  git commit -m 'add gitignore'
+   20  git status
+   21  add gitignore
+   22  git remote add origin git@github.com:brachel1/git-practice-brachel1.git
+   23  git remote 0v
+   24  git remote -v
+   25  git push -u origin main
+   29  git remote add origin git@github.com:brachel1/git-practice-brachel1.git
+   30  git remote add origin git@github.com:brachel1/git-practice2-brachel1.git
+   31  git remote -v
+   32  git push -u origin main
+   36  git status
+   37  git commit "create new files"
+   38  git add file_1.txt file_2.txt
+   40  git add file_1.txt file_2.txt
+   41  git status
+   42  [200~git commit -m "create new files"
+   43  git commit -m "create new files"
+   44  git status
+   45  git log
+   46  git status
+   47  git add file_1.txt 
+   48  git commit -m "file 1 changes"
+   49  git status
+   50  git commit -m "file 2 changes"
+   51  git status
+   52  git log
+   54  git add Readme.md 
+   55  git commit -m 'Readme file'
+   56  git status
+   57  touch .gitignore
+   58  git add ,gitignore
+   59  git add .gitignore
+   60  git commit -m "git ignore"
+   62  git status
+   63  git status
+   64  git branch features
+   65  git switch features
+   66  git log
+   68  git add new_features.txt 
+   69  git commit -m "add empty file"
+   70  git commit -m "changes"
+   71  git add new_features.txt 
+   72  git commit -m "changes"
+   73  git switch main
+   74  git add file_1.txt 
+   75  git commit -m
+   76  git commit -m "file 1 changes"
+   77  git merge features
+   78  git log
+   79  git add new_features.txt 
+   80  git commit -m "new_feat changes"
+   81  git switch features
+   82  git add new_features.txt 
+   83  git commit -m "more changes"
+   84  git switch main
+   85  git merge features
+   86  git add new_features.txt 
+   87  git commit -m "merge"
+   88  git branch -d features
+   89  git remote add origin git@github.com:brachel1/git-practice2-brachel1.git
+   90  git push -u origin main
+   91  git clone git@github.com:brachel1/git-practice-slwhit.git
+   93  cd git-practice-slwhit/
+   94  git branch feature-brachel1
+   96  git add .
+   97  git commit -m "add new file"
+   98  git push origin feature-brachel1
+   99  git status
+  101  git add .
+  102  git commit -m "new changes"
+  103  git push origin feature-brachel1
+  105  git push origin feature-brachel1
+  109  git add purplepineapples.txt 
+  110  git commit -m "purple add"
+  112  git branch feature-brachel1
+  113  git switch feature-brachel1
+  115  git add .
+  116  git commit -m "branch changes"
+  117  git push origin feature-brachel1 
+  118  git pull
+  119  git push origin feature-brachel1 
+  120  git add pinkpurplepineapples.txt 
+  121  git commit -m "new changes"
+  122  git push origin feature-brachel1 
+  124  git log --oneline > gitlog.txt
+  125  history | grep git > history.txt

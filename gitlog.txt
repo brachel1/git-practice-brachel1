@@ -1,0 +1,13 @@
+eb5831a merge
+aa156db more changes
+dfeac30 new_feat changes
+32d48e3 Merge branch 'features'
+26911db file 1 changes
+2c30e92 changes
+2b96191 add empty file
+047157f git ignore
+5acf329 Readme file
+b26ea59 file 1 changes
+87fcd99 create new files
+0427e3d add gitignore
+6c42d98 add file2.txt
